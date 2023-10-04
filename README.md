@@ -1,4 +1,4 @@
-# Street Clip
+# StreetCLIP demo
 
 **StreetCLIP** is a robust foundation model for open-domain image geolocalization and other geographic and climate-related tasks.
 
