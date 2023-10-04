@@ -5,7 +5,7 @@
 Trained on an original dataset of 1.1 million street-level urban and rural geo-tagged images, it achieves state-of-the-art performance on multiple open-domain image geolocalization benchmarks in **zero-shot**, outperforming supervised models trained on millions of images.
 
 ## Python notebook
-<a href="https://github.com/retkowsky/streetclip/blob/main/Streetclip.ipynb"></a>
+<a href="https://github.com/retkowsky/streetclip/blob/main/Streetclip.ipynb">Demo notebook</a>
 
 ## Example
 <img src="example.png">
